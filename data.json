@@ -1,0 +1,41 @@
+[
+    {
+        "project_id": "PRJ-001",
+        "customer_id": "CI001",
+        "client_name": "Vortex Dynamics Corp",
+        "project_name": "Quantum Supply Chain Platform – Phase 2",
+        "project_details": "Implementing real-time supply chain visibility dashboard with predictive delay alerts. Status: Integration testing in progress, 65% of APIs connected.",
+        "last_interaction": "Client demo session on Feb 19, 2026 – requested additional filtering options for supplier risk scores.",
+        "developer_id": "DEV-001",
+        "developer_name": "Elena Vasquez",
+        "priority": "High",
+        "due_date": "2026-04-05",
+        "health": "🟡 At Risk"
+    },
+    {
+        "project_id": "PRJ-002",
+        "customer_id": "CI002",
+        "client_name": "Aurora Climate Tech",
+        "project_name": "Carbon Ledger & Reporting Engine",
+        "project_details": "Building enterprise-grade carbon accounting and compliance reporting tool. Status: Core calculation engine complete, now focusing on audit-trail UI and export formats.",
+        "last_interaction": "Requirements refinement call Feb 21, 2026 – client wants support for Scope 3 category 11 emissions modeling.",
+        "developer_id": "DEV-002",
+        "developer_name": "Jamal Khalid",
+        "priority": "Medium",
+        "due_date": "2026-05-10",
+        "health": "🟢 On Track"
+    },
+    {
+        "project_id": "PRJ-003",
+        "customer_id": "CI003",
+        "client_name": "PeakPulse Logistics",
+        "project_name": "Dynamic Routing & Fuel Optimization",
+        "project_details": "ML-powered dynamic routing system aiming to reduce fuel consumption by 12–18%. Status: Model v2 training stalled due to inconsistent telematics data quality from third-party providers.",
+        "last_interaction": "Escalation meeting Feb 23, 2026 – vendor data team promised cleaned dataset delivery by end of week.",
+        "developer_id": "DEV-003",
+        "developer_name": "Liam Chen",
+        "priority": "High",
+        "due_date": "2026-03-25",
+        "health": "🔴 Blocked"
+    }
+]
